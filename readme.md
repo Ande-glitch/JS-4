@@ -1,7 +1,7 @@
 <h1 align="center">Javascript 4 While</h1>
 <div align="center">
   <h3>
-    <a href="https://ande-glitch.github.io/JS3-ForLoops/">
+    <a href="https://ande-glitch.github.io/JS-4/">
       Link to project
     </a>
   </h3>
